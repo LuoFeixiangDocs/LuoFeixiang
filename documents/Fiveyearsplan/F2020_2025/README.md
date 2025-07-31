@@ -4,19 +4,19 @@
       <table>
         <tbody>
           <tr>
-            <td style="background-color:#f0f0f0;width:400px;">Full Title</td>
+            <td style="background-color:#f0f0f0;width:200px;">Full Title</td>
             <td style="width:1200px;">First Five-Year Plan</td>
           </tr>
           <tr>
-            <td style="background-color:#f0f0f0;width:400px;">Start Date</td>
+            <td style="background-color:#f0f0f0;width:200px;">Start Date</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td style="background-color:#f0f0f0;width:400px;">End Date</td>
+            <td style="background-color:#f0f0f0;width:200px;">End Date</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td style="background-color:#f0f0f0;width:400px;">Duration</td>
+            <td style="background-color:#f0f0f0;width:200px;">Duration</td>
             <td>&nbsp;</td>
           </tr>
         </tbody>
