@@ -5,7 +5,7 @@
         <tbody>
           <tr>
             <td style="background-color:#f0f0f0;width:400px;">Full Title</td>
-            <td>First Five-Year Plan</td>
+            <td style="width:1200px;">First Five-Year Plan</td>
           </tr>
           <tr>
             <td style="background-color:#f0f0f0;width:400px;">Start Date</td>
@@ -21,7 +21,7 @@
           </tr>
         </tbody>
       </table>
-</figure>
+    </figure>
 
 ## Main Indicators
 
