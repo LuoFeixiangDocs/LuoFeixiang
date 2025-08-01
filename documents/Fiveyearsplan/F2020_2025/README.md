@@ -1,6 +1,6 @@
 # The First Five Year Plans
 
-<figure class="table" style="width:1200px;">
+<figure class="table" style="width:1280px;">
       <table>
         <tbody>
           <tr>
@@ -25,7 +25,7 @@
 
 ## Main Indicators
 
-<figure class="table" style="width:1200px;">
+<figure class="table" style="width:1280px;">
       <table>
         <tbody>
           <tr>
