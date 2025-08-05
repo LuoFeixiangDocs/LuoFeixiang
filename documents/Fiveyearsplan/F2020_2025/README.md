@@ -1,22 +1,22 @@
 # The First Five Year Plans
 
-<figure class="table" style="width:1280px;">
+<figure class="table" style="width:1260px;">
       <table>
         <tbody>
           <tr>
-            <td style="background-color:#f0f0f0;width:200px;">Full Title</td>
-            <td style="width:1200px;">First Five-Year Plan</td>
+            <td style="background-color:#f0f0f0;width:260px;">Full Title</td>
+            <td style="background-color:#f0f0f0;width:1000px;">First Five-Year Plan</td>
           </tr>
           <tr>
-            <td style="background-color:#f0f0f0;width:200px;">Start Date</td>
+            <td style="background-color:#f0f0f0;width:260px;">End Date</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td style="background-color:#f0f0f0;width:200px;">End Date</td>
+            <td style="background-color:#f0f0f0;width:260px;">End Date</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td style="background-color:#f0f0f0;width:200px;">Duration</td>
+            <td style="background-color:#f0f0f0;width:260px;">Duration</td>
             <td>&nbsp;</td>
           </tr>
         </tbody>
@@ -92,3 +92,4 @@
         </tbody>
       </table>
     </figure>
+
