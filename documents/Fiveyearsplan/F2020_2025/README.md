@@ -1,4 +1,4 @@
-# The First Five Year Plans
+# The First Five-Year Plans
 
 <figure class="table" style="width:1260px;">
       <table>
@@ -92,3 +92,4 @@
         </tbody>
       </table>
     </figure>
+
