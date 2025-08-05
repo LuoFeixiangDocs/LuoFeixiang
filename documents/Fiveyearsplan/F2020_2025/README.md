@@ -25,15 +25,15 @@
 
 ## Main Indicators
 
-<figure class="table" style="width:1280px;">
+<figure class="table" style="width:1260px;">
       <table>
         <tbody>
           <tr>
-            <td style="background-color:#f0f0f0;text-align:center;">Category</td>
-            <td style="background-color:#f0f0f0;" colspan="7">Indicator</td>
+            <td style="background-color:#f0f0f0;text-align:center;width:200px;">Category</td>
+            <td style="background-color:#f0f0f0;width:1060px;" colspan="7">Indicator</td>
           </tr>
           <tr>
-            <td style="background-color:#f0f0f0;text-align:center;" rowspan="7">&nbsp;</td>
+            <td style="background-color:#f0f0f0;text-align:center;width:200px;" rowspan="7">&nbsp;</td>
             <td style="text-align:center;" rowspan="4">1</td>
             <td colspan="2">Obtain Associate's Degree</td>
             <td style="text-align:center;">2020</td>
@@ -92,4 +92,3 @@
         </tbody>
       </table>
     </figure>
-
