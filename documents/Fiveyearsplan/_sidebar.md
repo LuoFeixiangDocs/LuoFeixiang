@@ -1,4 +1,4 @@
-- [Five years plans](documents/Fiveyearsplan/)
+- [Five-Year Plans](documents/Fiveyearsplan/)
   - [The First Five-Year Plan](documents/Fiveyearsplan/F2021_2025/)
   - [The Second Five-Year Plan](documents/Fiveyearsplan/F2026_2030/)
   - [The Third Five-Year Plan](documents/Fiveyearsplan/F2031_2035/)
