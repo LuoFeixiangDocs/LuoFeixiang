@@ -63,3 +63,21 @@
         </tbody>
       </table>
     </figure>
+
+## Indicator
+
+### Obtain Associate's Degree
+
+[] 线性代数
+[] 高等数学
+[] 经济法概论
+
+### BMI 23
+
+[] walk one million steps
+
+### Trading
+
+[] 读完目前准备的交易书籍
+[] 第二次复习笔记
+[] 第三次复习笔记
