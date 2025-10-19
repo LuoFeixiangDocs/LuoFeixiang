@@ -26,52 +26,40 @@
 ## Main Indicators
 
 <figure class="table" style="width:1260px;">
-      <table>
+      <table style="background-color:rgb(255, 255, 255);">
         <tbody>
           <tr>
-            <td style="background-color:rgb(240, 240, 240);border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:200px;">Category</td>
-            <td style="background-color:rgb(240, 240, 240);border:1px solid rgb(221, 221, 221);padding:6px 13px;width:1060px;"
-            colspan="7">Indicator</td>
+            <td style="background-color:#f0f0f0;border:1px solid rgb(221, 221, 221);padding:6px 13px;width:200px;">Category</td>
+            <td style="background-color:#f0f0f0;border:1px solid rgb(221, 221, 221);padding:6px 13px;width:660px;">Indicator</td>
+            <td style="background-color:#f0f0f0;text-align:center;width:100px;">2021</td>
+            <td style="background-color:#f0f0f0;text-align:center;width:100px;">2025</td>
+            <td style="background-color:#f0f0f0;text-align:center;width:100px;">Attribute</td>
+            <td style="background-color:#f0f0f0;text-align:center;width:100px;">Result</td>
           </tr>
           <tr>
-            <td style="background-color:rgb(240, 240, 240);border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:200px;"
-            rowspan="4">&nbsp;</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;"
-            rowspan="2">1</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;"
-            colspan="2">Education</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">2021</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">2025</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">Attribute</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">Result</td>
+            <td style="background-color:#f0f0f0;border:1px solid rgb(221, 221, 221);padding:6px 13px;width:200px;">Education</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:660px;">Obtain Associate's Degree</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">0</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">1</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
           </tr>
           <tr>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">1</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">Obtain Associate's Degree</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">0</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">1</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">&nbsp;</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">&nbsp;</td>
+            <td style="background-color:#f0f0f0;">Health</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:660px;">BMI 23</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">28</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">23</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
           </tr>
           <tr>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;"
-            rowspan="2">2</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;"
-            colspan="2">Health</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">2021</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">2025</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">Attribute</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">Result</td>
-          </tr>
-          <tr>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">1</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">BMI</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">28</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">23</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">&nbsp;</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;">&nbsp;</td>
+            <td style="background-color:#f0f0f0;">Profession</td>
+            <td style="width:660px;">Trading</td>
+            <td style="text-align:center;width:100px;">0</td>
+            <td style="text-align:center;width:100px;">1</td>
+            <td style="text-align:center;width:100px;">&nbsp;</td>
+            <td style="text-align:center;width:100px;">&nbsp;</td>
           </tr>
         </tbody>
       </table>
     </figure>
-
