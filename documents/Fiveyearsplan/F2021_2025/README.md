@@ -9,15 +9,15 @@
           </tr>
           <tr>
             <td style="background-color:#f0f0f0;width:260px;">Start Date</td>
-            <td>&nbsp;</td>
+            <td>2025-11-03</td>
           </tr>
           <tr>
             <td style="background-color:#f0f0f0;width:260px;">End Date</td>
-            <td>&nbsp;</td>
+            <td>2025-12-31</td>
           </tr>
           <tr>
             <td style="background-color:#f0f0f0;width:260px;">Duration</td>
-            <td>&nbsp;</td>
+            <td>59D</td>
           </tr>
         </tbody>
       </table>
@@ -25,40 +25,24 @@
 
 ## Main Indicators
 
-<figure class="table" style="width:1260px;">
-      <table style="background-color:rgb(255, 255, 255);">
+<figure class="table" style="width:max-content;">
+      <table style="background-color:rgb(13, 17, 23);">
         <tbody>
           <tr>
-            <td style="background-color:#f0f0f0;border:1px solid rgb(221, 221, 221);padding:6px 13px;width:200px;">Category</td>
-            <td style="background-color:#f0f0f0;border:1px solid rgb(221, 221, 221);padding:6px 13px;width:660px;">Indicator</td>
-            <td style="background-color:#f0f0f0;text-align:center;width:100px;">2021</td>
-            <td style="background-color:#f0f0f0;text-align:center;width:100px;">2025</td>
-            <td style="background-color:#f0f0f0;text-align:center;width:100px;">Attribute</td>
-            <td style="background-color:#f0f0f0;text-align:center;width:100px;">Result</td>
+            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;">Category</td>
+            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;">Indicator</td>
+            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;">2021</td>
+            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;">2025</td>
+            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;">Attribute</td>
+            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;">Result</td>
           </tr>
           <tr>
-            <td style="background-color:#f0f0f0;border:1px solid rgb(221, 221, 221);padding:6px 13px;width:200px;">Education</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:660px;">Obtain Associate's Degree</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">0</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">1</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="background-color:#f0f0f0;">Health</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;width:660px;">BMI 23</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">28</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">23</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;text-align:center;width:100px;">&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="background-color:#f0f0f0;">Profession</td>
-            <td style="width:660px;">Trading</td>
-            <td style="text-align:center;width:100px;">0</td>
-            <td style="text-align:center;width:100px;">1</td>
-            <td style="text-align:center;width:100px;">&nbsp;</td>
-            <td style="text-align:center;width:100px;">&nbsp;</td>
+            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;">Health</td>
+            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;">BMI 23</td>
+            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;">28</td>
+            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;">27</td>
+            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;">&nbsp;</td>
+            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;">&nbsp;</td>
           </tr>
         </tbody>
       </table>
