@@ -2,7 +2,7 @@
 
 ## Life Goals Checklist
 
-<figure class="table" style="width:1259.99px;">
+<figure class="table" style="width:1259.98px;">
       <table style="background-color:rgb(255, 255, 255);">
         <tbody>
           <tr>
@@ -28,16 +28,7 @@
           <tr>
             <td style="background-color:rgb(240, 240, 240);border:1px solid rgb(221, 221, 221);padding:6px 13px;width:200px;">Education</td>
             <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">Earn a master's degree or higher</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="background-color:#f0f0f0;" rowspan="2">Profession</td>
-            <td>In Trading: Maintain a risk-reward ratio of 1:2</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>In Trading: Achieve a 70% win rate</td>
-            <td>&nbsp;</td>
+            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">&nbsp;</td>
           </tr>
         </tbody>
       </table>
