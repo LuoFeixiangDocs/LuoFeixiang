@@ -1,99 +1,106 @@
 # The Second Five-Year Plan
 
-<figure class="table" style="width:1260px;">
-      <table style="background-color:rgb(255, 255, 255);">
+<figure class="table">
+      <table>
         <tbody>
           <tr>
-            <td style="background-color:rgb(240, 240, 240);border:1px solid rgb(221, 221, 221);padding:6px 13px;width:260px;">Full Title</td>
-            <td style="background-color:rgb(240, 240, 240);border:1px solid rgb(221, 221, 221);padding:6px 13px;width:1000px;">Second Five-Year Plan</td>
+            <td>全称</td>
+            <td>第一个五年规划</td>
           </tr>
           <tr>
-            <td style="background-color:rgb(240, 240, 240);border:1px solid rgb(221, 221, 221);padding:6px 13px;width:260px;">Start Date</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">2026-01-01</td>
+            <td>开始日期</td>
+            <td>2026-01-01</td>
           </tr>
           <tr>
-            <td style="background-color:rgb(240, 240, 240);border:1px solid rgb(221, 221, 221);padding:6px 13px;width:260px;">End Date</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">2030-12-31</td>
+            <td>结束日期</td>
+            <td>2030-12-31</td>
           </tr>
           <tr>
-            <td style="background-color:rgb(240, 240, 240);border:1px solid rgb(221, 221, 221);padding:6px 13px;width:260px;">Duration</td>
-            <td style="border:1px solid rgb(221, 221, 221);padding:6px 13px;">1826D</td>
+            <td>间隔</td>
+            <td>1826天</td>
           </tr>
         </tbody>
       </table>
     </figure>
 
-## Plan Philosophy
-
-1. 学业完成
-   - 2026 年完成本科挂科科目考试并完成答辩，确保 2027 年前取得本科学位证。
-   - 2026 年 10 月前完成研究生入学准备，选择北上广深杭院校。
-
-2. 经济独立与技能提升
-   - 不惜一切代价加快价格行为学的学习，建立稳定的交易系统。
-   - 尽力在 2026 年前实现经济独立，通过实盘交易获得持续收入。
-   - 持续优化个人财富管理，为 2030 年的长期财务目标奠定基础。
-
-3. 健康与体能
-   - 将体重降至 BMI 23 的健康水平。
-   - 建立规律运动习惯，逐步增强跑步能力，目标完成 10 公里跑步 <50 分钟。
-   - 每年监测体重、BMI、运动数据，确保健康指标持续改善。
-
-4. 核心原则
-   > 所有行动必须围绕学业完成、经济独立和健康提升三个核心任务展开，任何拖延和分心行为都将被及时调整。
-
----
-
 ## Main Indicators
 
-<figure class="table" style="width:1260px;">
-      <table style="background-color:rgb(13, 17, 23);">
+<figure class="table">
+      <table>
         <tbody>
           <tr>
-            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;width:200px;">Category</td>
-            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;width:660px;">Indicator</td>
-            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;text-align:center;width:100px;">2026</td>
-            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;text-align:center;width:100px;">2030</td>
-            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;width:100px;">Attribute</td>
-            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;width:100px;">Result</td>
+            <td>类别</td>
+            <td colspan="2">目标</td>
+            <td>2026</td>
+            <td>2030</td>
+            <td>完成情况</td>
+            <td>最终结果</td>
           </tr>
           <tr>
-            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;width:200px;">Health</td>
-            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;width:660px;">BMI 23</td>
-            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;text-align:center;width:100px;">27</td>
-            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;text-align:center;width:100px;">23</td>
-            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;width:100px;">&nbsp;</td>
-            <td style="border:1px solid rgb(61, 68, 77);padding:6px 13px;width:100px;">&nbsp;</td>
-          </tr>
-          <tr>
-            <td rowspan="3">Education</td>
-            <td>Associate Degree Graduate</td>
-            <td style="text-align:center;">0</td>
-            <td style="text-align:center;">1</td>
+            <td rowspan="6">健康</td>
+            <td colspan="2">10公里60分钟以内</td>
+            <td>-</td>
+            <td>60</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td>Bachelor’s Degree</td>
-            <td style="text-align:center;">0</td>
-            <td style="text-align:center;">1</td>
+            <td>1</td>
+            <td>200天内体重到68KG</td>
+            <td colspan="4" rowspan="5">&nbsp;</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>400天内90分钟</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>500天内80分钟</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>600天内70分钟</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>700天内60分钟</td>
+          </tr>
+          <tr>
+            <td>教育</td>
+            <td colspan="2">硕士研究生毕业</td>
+            <td>0</td>
+            <td>1</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td>Master’s Program Admission</td>
-            <td style="text-align:center;">0</td>
-            <td style="text-align:center;">1</td>
+            <td rowspan="6">资产</td>
+            <td colspan="2">两千万</td>
+            <td>0</td>
+            <td>20000000</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
-            <td>Wealth</td>
-            <td>Price Action Trade</td>
-            <td style="text-align:center;">100-USD</td>
-            <td style="text-align:center;">1M-USD</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
+            <td>1</td>
+            <td>2026年日化0.3%月化10%年化197%总资产3000元</td>
+            <td colspan="4" rowspan="5">&nbsp;</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>2026年-2027年日化0.4%月化13%年化327%总资产10000元</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>2027年-2028年日化0.5%月化16%年化517%总资产30000元</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>2028年-2029年日化0.6%月化20%年化932%总资产200万</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>2029年-2030年日化0.7%月化24%年化1175%总资产2000万</td>
           </tr>
         </tbody>
       </table>
