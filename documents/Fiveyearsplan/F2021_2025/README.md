@@ -22,30 +22,3 @@
         </tbody>
       </table>
     </figure>
-
-## Main Indicators
-
-<figure class="table" style="width:1260px;">
-      <table style="background-color:rgb(13, 17, 23);">
-        <tbody>
-          <tr>
-            <td width:200px;">Category</td>
-            <td width:660px;">Indicator</td>
-            <td text-align:center;width:100px;">2021</td>
-            <td text-align:center;width:100px;">2025</td>
-            <td width:100px;">Attribute</td>
-            <td width:100px;">Result</td>
-          </tr>
-          <tr>
-            <td width:200px;">Health</td>
-            <td width:660px;">BMI 23</td>
-            <td text-align:center;width:100px;">28</td>
-            <td text-align:center;width:100px;">27</td>
-            <td width:100px;">&nbsp;</td>
-            <td width:100px;">&nbsp;</td>
-          </tr>
-        </tbody>
-      </table>
-    </figure>
-
-
