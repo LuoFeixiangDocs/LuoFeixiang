@@ -5,7 +5,7 @@
 > [Five Year Plans](documents/Fiveyearsplan/)  
 > [Investment Record Book](documents/Investmentrecordbook/)
 
-## 《罗飞翔写的人生攻略》
+## 罗飞翔写的人生攻略
 
 > [人生攻略第一部 – 三观重塑](documents/Book01/)  
 > [人生攻略第二部 – 如何积累文化资本？](documents/Book02/)  
