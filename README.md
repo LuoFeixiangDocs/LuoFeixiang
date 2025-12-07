@@ -3,7 +3,7 @@
 ## Record
 
 > [Five Year Plans](documents/Fiveyearsplan/)  
-> [Investment Record Book](documents/Investmentrecordbook/)
+> [Investment Record Book](documents/Investmentrecordbook/invest.html)
 
 ## 罗飞翔写的人生攻略
 
