@@ -3,7 +3,7 @@
 ## Record
 
 > [Five Year Plans](documents/Fiveyearsplan/)  
-> [Investment Record Book](https://docs.google.com/spreadsheets/d/1cvXBkEvKCB04uduASPyxtFy6O72_c2i5jhqjOP3lSfE/edit?usp=sharing)
+> [Investment Record Book](https://docs.google.com/spreadsheets/d/e/2PACX-1vT7SAz_mTo_BVH_YSs4MZAlHiAv_Uwo4_meQczF287qcLweb6pqL8OvBGE2GC5xjmaq12p2LxOUQMcG/pubhtml)
 
 ## 罗飞翔写的人生攻略
 
